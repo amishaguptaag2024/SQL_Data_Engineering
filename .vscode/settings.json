@@ -1,0 +1,27 @@
+{
+    "sqltools.connections": [
+        {
+            "ssh": "Disabled",
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "askForPassword": true,
+            "driver": "PostgreSQL",
+            "name": "Local PostgreSQL",
+            "group": "PostgreSQL",
+            "database": "postgres",
+            "username": "amisha"
+        },
+        {
+            "ssh": "Disabled",
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "askForPassword": true,
+            "driver": "PostgreSQL",
+            "name": "PostgreSQL-Local",
+            "database": "itversity_retail_db",
+            "username": "itversity_retail_user"
+        }
+    ]
+}
